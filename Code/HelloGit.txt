@@ -1,2 +1,3 @@
 This is my first visiting git for project;
-Thanks for git's auther  
+Thanks for git's auther ;
+--add  new code to reportity!
